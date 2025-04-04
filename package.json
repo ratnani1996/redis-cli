@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.13.14"
+  },
+  "dependencies": {
+    "redis-parser": "^3.0.0"
+  }
+}
